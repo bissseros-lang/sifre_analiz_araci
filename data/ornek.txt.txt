@@ -1,0 +1,13 @@
+ŞİFRE ANALİZ SİSTEMİ - ÖRNEK VERİ SETİ
+--------------------------------------
+Bu dosya, projenin klasör yapısını (data/) doğrulamak amacıyla oluşturulmuştur.
+
+Örnek Zayıf Şifreler:
+1. 123456
+2. password
+3. qwerty
+
+Örnek Güçlü Şifreler:
+1. Tr0ub4dor&3
+2. P@ssw0rd2026!
+3. Güçlü_Şifre_123!
